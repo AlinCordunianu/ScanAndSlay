@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+package-lock.json
+public/art/
+public/models/**/*.gltf
+public/models/**/*.glb
